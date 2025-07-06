@@ -8,5 +8,5 @@ _G.FarmSlapsSnowFarm = 150
 _G.WaitRegisterSnowFarm = 1
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/OpenSourceScripts/refs/heads/main/SlapFarmGui/Versions/(v4.3).luau'))()
 
-local scripts = [[loadstring(game:HttpGet('https://raw.githubusercontent.com/sigmaboy-sigma-boy/idk/refs/heads/main/sigma3.raw'))()]]
+local scripts = [[loadstring(game:HttpGet('https://raw.githubusercontent.com/sigmaboy-sigma-boy/idk/refs/heads/main/sigma4.raw'))()]]
 queue_on_teleport(scripts)
