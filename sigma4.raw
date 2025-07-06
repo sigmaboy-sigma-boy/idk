@@ -8,5 +8,5 @@ print("OVER")
 
 _G.SnowFarm = true
 _G.FarmSlapsSnowFarm = 150
-_G.WaitRegisterSnowFarm = 1
+_G.WaitRegisterSnowFarm = 2.25
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/OpenSourceScripts/refs/heads/main/SlapFarmGui/Versions/(v4.3).luau'))()
