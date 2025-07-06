@@ -1,4 +1,4 @@
-task.wait(30)
+wait(30)
 
 _G.SnowFarm = true
 _G.FarmSlapsSnowFarm = 150
