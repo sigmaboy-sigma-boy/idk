@@ -6,3 +6,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/OpenSourceS
 _G.ErrorFarm = true
 _G.FarmSlapsErrorFarm = 100
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/OpenSourceScripts/refs/heads/main/SlapFarmGui/Versions/(v4.3).luau'))()
+
+queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/sigmaboy-sigma-boy/idk/refs/heads/main/idk.lua'))()")
