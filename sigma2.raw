@@ -9,4 +9,4 @@ _G.ErrorFarm = true
 _G.FarmSlapsErrorFarm = 150
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro666Pro/OpenSourceScripts/refs/heads/main/SlapFarmGui/Versions/(v4.3).luau'))()
 
-queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/sigmaboy-sigma-boy/idk/refs/heads/main/sigma.raw'))()")
+queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/sigmaboy-sigma-boy/idk/refs/heads/main/sigma2.raw'))()")
