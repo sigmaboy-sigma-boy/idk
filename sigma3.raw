@@ -2,6 +2,7 @@ print("START!")
 wait(15)
 print("OVER")
 
+
 _G.SnowFarm = true
 _G.FarmSlapsSnowFarm = 150
 _G.WaitRegisterSnowFarm = 1
